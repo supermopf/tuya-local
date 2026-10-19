@@ -675,6 +675,7 @@
 - Casdon KG1 inline water dispenser
 - Casdon TD Pro 2, TD Pro 3 and T2E ovens
 - Cecofry 5500 Connected air fryer
+- Easybaby Milk Maker GS-8088
 - Etna VW644MC dishwasher, AB791 range hood
 - Fiesta DK-1G smart kettle
 - FRE1L4 water chiller
@@ -1357,7 +1358,7 @@ port and password.
 - Stahlmann Smart water leak control system
 - Sunlary indoor plant watering system
 - Wasserstein AquaPal water monitor
-- WD-01GDE irrigation controller 
+- WD-01GDE irrigation controller
 - Zemismart DP-WBS01 8-zone sprinkler controller (also sold as Benexmart and other brands)
 
 ### Miscellaneous
@@ -1520,7 +1521,7 @@ port and password.
 - Nice Digi door lock
 - Orion DL021HA lock
 - O'TU R1O1 fingerprint door lock
-- Parkside PBB-A1 water timer 
+- Parkside PBB-A1 water timer
 - Positivo Smart keypad and voice locks
 - Primebras Athenas lock
 - PT216/PT19DB-2 temperature and humidity sensor
